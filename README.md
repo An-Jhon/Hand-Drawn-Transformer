@@ -4,6 +4,10 @@
 
 # 预览
 
+## Transformer
+
+![Transformer-Decoder](Transformer/Transformer-Transformer.png)
+
 ## Transformer-Encoder
 
 ![Transformer-Encoder](Transformer/Transformer-Encoder.png)
